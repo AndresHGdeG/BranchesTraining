@@ -2,6 +2,6 @@ Este línea es creada en la rama master como segundo commit
 Esta es la segunda línea agregada para un tercer commit
 1
 2
-3
+3 Esta línea es agregada como primer commit de hotfix_1
 4
 5
