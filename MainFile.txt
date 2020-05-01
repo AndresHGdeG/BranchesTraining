@@ -5,7 +5,7 @@ Esta es la segunda línea agregada para un tercer commit
 3 Esta línea es agregada como primer commit de hotfix_1
 4 Caambio 3 issue2
 5 Esta línea es agregada como primer commit de issue1
-6
+6 Esta línea es agrga como primer commit de issue3-issue1
 7
 8
 9
