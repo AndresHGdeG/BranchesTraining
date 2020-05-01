@@ -6,7 +6,7 @@ Esta es la segunda línea agregada para un tercer commit
 4 Caambio 3 issue2
 5 Esta línea es agregada como primer commit de issue1
 6 Esta línea es agrga como primer commit de issue3-issue1
-7
+7 Esta línea es agregada como segundo commmit de issu3-issue1
 8
 9
 10
