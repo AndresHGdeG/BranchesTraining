@@ -21,9 +21,8 @@ Esta es la segunda línea agregada para un tercer commit
 19 cambio c22 is4
 20 cambio c22 is4
 21 master added
-22
-23
-24
-25
+22 camibo c26 is5
+23 cambio c26 is5
+24 cambio c26 is5
+25 cambio c26 is5
 26 master adde c26
-
