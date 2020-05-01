@@ -15,8 +15,8 @@ Esta es la segunda línea agregada para un tercer commit
 13 cambio c13 issue3-issue2
 14 cambio c14 issue3-issue2
 15 cambio c14 issue3-issue2
-16
-17
-18
-19
-20
+16 cambio c22 is4
+17 cambio c22 is4
+18 cambio c22 is4
+19 cambio c22 is4
+20 cambio c22 is4
