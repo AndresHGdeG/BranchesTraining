@@ -47,6 +47,7 @@ Esta es la segunda línea agregada para un tercer commit
 45 hotfix_2
 46 hotfix_3
 47 is16
+47.5 is20
 48
 49
 50
