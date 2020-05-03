@@ -80,7 +80,15 @@ line added is30
 
 
 ==================================
-Function_9()
+Function_9(is31)
+{
+ /*esta funcion suma 
+ donde recibira una variable a y b
+ regresa como resultado c*/
+
+ //fin de la funcion 
+
+}
 ==================================
 Function_10()
 ==================================
