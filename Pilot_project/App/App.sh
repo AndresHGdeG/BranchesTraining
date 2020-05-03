@@ -14,7 +14,7 @@ function Sum(){
 #======================================
 #--*Function_2() Multipy
 function multiply(){
-	echo -e "\nFunction2 multiply is ready to be edited"
+	echo -e "\nFunction 2 Multiply|"
 	a=$1
 	b=$2
 	ans=$((a*b))
