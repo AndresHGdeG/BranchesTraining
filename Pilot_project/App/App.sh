@@ -14,6 +14,9 @@ function multiply(){
 }
 #======================================
 #--*Function_3() Divide
+function divide(){
+	echo -e "\n Function3 divide is redy to be edited"
+}
 #======================================
 #================================================
 
@@ -29,6 +32,7 @@ function multiply(){
 	multiply
 #==================
 #Function3();
+	divide 
 #==================
 
 
