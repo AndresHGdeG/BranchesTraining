@@ -8,6 +8,9 @@
 #--*Function_2() Multipy
 #======================================
 #--*Function_3() Divide
+function divide(){
+	echo -e "\n Function3 divide is redy to be edited"
+}
 #======================================
 #================================================
 
@@ -21,6 +24,7 @@
 #Function2();
 #==================
 #Function3();
+	divide 
 #==================
 
 
