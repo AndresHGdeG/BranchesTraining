@@ -9,6 +9,9 @@ function Sum(){
 }
 #======================================
 #--*Function_2() Multipy
+function multiply(){
+	echo -e "\nFunction2 multiply is ready to be edited"
+}
 #======================================
 #--*Function_3() Divide
 #======================================
@@ -23,6 +26,7 @@ function Sum(){
 	Sum
 #==================
 #Function2();
+	multiply
 #==================
 #Function3();
 #==================
