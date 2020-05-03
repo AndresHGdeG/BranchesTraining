@@ -6,6 +6,10 @@
 #--*Function_1() Sum
 function Sum(){
 	echo -e "\nFunction 1 ready to be edited"
+	a=5
+	b=10
+	ans=$((a+b))
+	echo "$a + $b=$ans"
 }
 #======================================
 #--*Function_2() Multipy
