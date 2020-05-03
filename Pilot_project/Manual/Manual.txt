@@ -1,1 +1,20 @@
 #This file have information to understan the app
+
+==================Introduction====================
+Introduction
+==================Chapter 1=======================
+Chapter 1
+
+Chapter 1 ready to be edited
+
+==================Chapter 2=======================
+Chapter 2
+
+Chapter 2 ready to be edited
+
+==================Conclution======================
+Conclution
+
+Conclution ready to be edited
+
+==================================================
