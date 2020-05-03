@@ -82,7 +82,13 @@ line added is30
 ==================================
 Function_9()
 ==================================
-Function_10()
+Function_10(is32)
+
+ /* this function dive two numbers 
+ and return a result*/
+
+ //letter return 
+
 ==================================
 
 
