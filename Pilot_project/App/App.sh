@@ -10,8 +10,8 @@
 #--*Function_3() Divide
 function divide(){
 	echo -e "\n Function3 divide is redy to be edited"
-	a=4
-	b=2
+	a=$1
+	b=$2
 	ans=$((a/b))
 	echo "$a over $b = $ans"
 }
@@ -28,7 +28,7 @@ function divide(){
 #Function2();
 #==================
 #Function3();
-	divide 
+	divide $2 $3
 #==================
 
 
