@@ -16,6 +16,10 @@ function multiply(){
 #--*Function_3() Divide
 function divide(){
 	echo -e "\n Function3 divide is redy to be edited"
+	a=$1
+	b=$2
+	ans=$((a/b))
+	echo "$a over $b = $ans"
 }
 #======================================
 #================================================
@@ -37,7 +41,7 @@ function divide(){
 	multiply
 #==================
 #Function3();
-	divide 
+	divide $2 $3
 #==================
 
 
