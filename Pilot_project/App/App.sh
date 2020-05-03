@@ -11,6 +11,10 @@ function Sum(){
 #--*Function_2() Multipy
 function multiply(){
 	echo -e "\nFunction2 multiply is ready to be edited"
+	a=$1
+	b=$2
+	ans=$((a*b))
+	echo "$a by $b = $ans"
 }
 #======================================
 #--*Function_3() Divide
@@ -38,7 +42,7 @@ function divide(){
 	Sum
 #==================
 #Function2();
-	multiply
+	multiply $2 $3
 #==================
 #Function3();
 	divide $2 $3
