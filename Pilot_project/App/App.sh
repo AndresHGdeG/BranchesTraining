@@ -5,7 +5,7 @@
 #======================================
 #--*Function_1() Sum
 function Sum(){
-	echo -e "\nFunction 1 ready to be edited"
+	echo -e "\nFunction 1 Sume"
 	a=$1
 	b=$2
 	ans=$((a+b))
@@ -14,7 +14,7 @@ function Sum(){
 #======================================
 #--*Function_2() Multipy
 function multiply(){
-	echo -e "\nFunction2 multiply is ready to be edited"
+	echo -e "\nFunction 2 Multiply|"
 	a=$1
 	b=$2
 	ans=$((a*b))
@@ -23,7 +23,7 @@ function multiply(){
 #======================================
 #--*Function_3() Divide
 function divide(){
-	echo -e "\n Function3 divide is redy to be edited"
+	echo -e "\n Function 3 Divide"
 	a=$1
 	b=$2
 	ans=$((a/b))
