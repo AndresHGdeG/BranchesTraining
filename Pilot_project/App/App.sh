@@ -9,7 +9,7 @@
 #======================================
 #--*Function_3() Divide
 function divide(){
-	echo -e "\n Function3 divide is redy to be edited"
+	echo -e "\n Function 3 Divide"
 	a=$1
 	b=$2
 	ans=$((a/b))
