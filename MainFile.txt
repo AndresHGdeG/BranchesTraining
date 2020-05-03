@@ -90,7 +90,13 @@ Function_9(is31)
 
 }
 ==================================
-Function_10()
+Function_10(is32)
+
+ /* this function dive two numbers 
+ and return a result*/
+
+ //letter return 
+
 ==================================
 
 
