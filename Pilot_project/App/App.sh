@@ -5,7 +5,7 @@
 #======================================
 #--*Function_1() Sum
 function Sum(){
-	echo -e "\nFunction 1 ready to be edited"
+	echo -e "\nFunction 1 Sume"
 	a=$1
 	b=$2
 	ans=$((a+b))
