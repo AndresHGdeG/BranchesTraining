@@ -8,8 +8,8 @@
 #--*Function_2() Multipy
 function multiply(){
 	echo -e "\nFunction2 multiply is ready to be edited"
-	a=4
-	b=5
+	a=$1
+	b=$2
 	ans=$((a*b))
 	echo "$a by $b = $ans"
 }
@@ -26,7 +26,7 @@ function multiply(){
 #Function1();
 #==================
 #Function2();
-	multiply
+	multiply $2 $3
 #==================
 #Function3();
 #==================
