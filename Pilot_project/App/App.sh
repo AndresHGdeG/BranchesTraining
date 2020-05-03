@@ -24,6 +24,11 @@ function divide(){
 
     echo "Hello world"
 
+    if [ ! $1 ] || [ ! $2 ] || [ ! $3 ] ; then
+	    echo "You might add 3 parameters, the number of the option and 2 numbers"
+	    exit 2
+    fi
+
 #==================
 #Function1();
 	Sum
